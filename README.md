@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivrajhakke
 A Passionate Data Analyst
-- 🌱 I’m currently learning Power BI, Excel, SQL, Python
+- 🌱 I’m skilled in Power BI, Excel, SQL, Python
 - 📫 How to reach me rajhakke@gmail.com
 
 
